@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    
+    color: #fad1ff;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    background-color: #301e5c;
+}
